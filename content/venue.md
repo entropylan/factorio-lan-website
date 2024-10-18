@@ -2,7 +2,7 @@
 title = "Venue"
 +++
 
-The venue is the awesome [Padworth Village Hall](/travel). Used for many LAN parties, it has lots of useful things:
+The venue is the awesome Padworth Village Hall. Used for many LAN parties, it has lots of useful things:
 
  - **Sleeping** - Plenty of space for airbeds and sleeping bags!
  - **Parking** - Lots of parking.

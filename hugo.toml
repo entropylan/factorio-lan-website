@@ -43,7 +43,7 @@ autoCover = true
       [[languages.en.menu.main]]
         identifier = "tickets"
         name = "Tickets"
-        url = "#"
+        url = "/tickets"
         weight = 2
       [[languages.en.menu.main]]
         identifier = "venue"
@@ -63,7 +63,7 @@ autoCover = true
       [[languages.en.menu.main]]
         identifier = "seat-picker"
         name = "Seat Picker"
-        url = "#"
+        url = "/seatpicker"
         weight = 6
       [[languages.en.menu.main]]
         identifier = "what-to-bring"

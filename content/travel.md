@@ -4,7 +4,7 @@ title = "Travel"
 
 The event is conveniently located and easy to find.
 
-[Padworth Village Hall](https://maps.app.goo.gl/yuik4KqcrmKmzkzGA)
+Padworth Village Hall
 \
 Padworth Lane
 \

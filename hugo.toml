@@ -1,0 +1,88 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-gb'
+title = 'Factory Game LAN Party'
+theme = "re-terminal"
+
+[params]
+themeColor = "orange"
+autoCover = true
+
+#[params.banner]
+#dismissible = false
+#text = "Buy Tickets"
+#url = "https://www.google.com"
+
+[languages]
+  [languages.en.params]
+    languageName = "English"
+    title = "Factory Game LAN Party"
+    subtitle = "10th April 2025"
+    owner = ""
+    keywords = ""
+    copyright = "&copy; 2024 Factory Game LAN Party"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+    minuteReadingTime = "min read"
+    words = "words"
+
+    [languages.en.params.logo]
+      logoText = "Factory Game LAN Party"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "details"
+        name = "Details"
+        url = "/"
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = "tickets"
+        name = "Tickets"
+        url = "#"
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "venue"
+        name = "Venue"
+        url = "/venue"
+        weight = 3
+      [[languages.en.menu.main]]
+        identifier = "travel"
+        name = "Travel"
+        url = "/travel"
+        weight = 4
+      [[languages.en.menu.main]]
+        identifier = "accommodation"
+        name = "Accommodation"
+        url = "/accommodation"
+        weight = 5
+      [[languages.en.menu.main]]
+        identifier = "seat-picker"
+        name = "Seat Picker"
+        url = "#"
+        weight = 6
+      [[languages.en.menu.main]]
+        identifier = "what-to-bring"
+        name = "What to Bring"
+        url = "/what-to-bring"
+        weight = 7
+      [[languages.en.menu.main]]
+        identifier = "faqs"
+        name = "FAQs"
+        url = "/faqs"
+        weight = 8
+
+
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.parser]
+[markup.goldmark.parser.attribute]
+block = true
+title = true
+[markup.goldmark.renderer]
+unsafe = true

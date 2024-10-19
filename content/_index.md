@@ -1,7 +1,5 @@
 +++
 title = "FLAN Party"
-[params]
-bodyclass = "foobar"
 +++
 # Details
 {class="post-title"}
@@ -14,7 +12,7 @@ This is a LAN Party for people who like Factorio and want to play it for a whole
 - **Capacity:** 40 People
 - **Price:** &pound;50
 
-[Get Tickets](#)
+[Get Tickets](/tickets)
 {class="cta-block mx-auto"}
 
 {{< figure src="/images/cover.jpg" alt="A base that looks like spaghetti" position="center" style="border-radius: 8px; margin-top: 4em;" caption="The factory must grow." captionPosition="right" >}}

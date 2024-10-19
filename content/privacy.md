@@ -2,9 +2,9 @@
 title = "Privacy Policy"
 +++
 
-This Privacy Policy applies between you, the User of this Website, and Factory Game LAN Party, the owner and provider of this Website. Factory Game LAN Party takes the privacy of your information very seriously. This Privacy Policy applies to our use of any and all Data collected by us or provided by you in relation to your use of the Website.
+This Privacy Policy applies between you, the User of this Website, and FLAN Party, the owner and provider of this Website. FLAN Party takes the privacy of your information very seriously. This Privacy Policy applies to our use of any and all Data collected by us or provided by you in relation to your use of the Website.
 
-This Privacy Policy should be read alongside, and in addition to, our Terms and Conditions, which can be found at: https://www.example.com/terms.
+This Privacy Policy should be read alongside, and in addition to, our Terms and Conditions, which can be found at: https://flanparty.net/terms.
 
 **Please read this Privacy Policy carefully**.
 
@@ -14,14 +14,14 @@ This Privacy Policy should be read alongside, and in addition to, our Terms and 
 
 | **Term** | **Definition**                                                                                                                                                                                                                                                                                                        |
 | --- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Data** | collectively all information that you submit to Factory Game LAN Party via the Website. This definition incorporates, where applicable, the definitions provided in the Data Protection Laws;                                                                                                                         |
+| **Data** | collectively all information that you submit to FLAN Party via the Website. This definition incorporates, where applicable, the definitions provided in the Data Protection Laws;                                                                                                                         |
 | **Cookies** | a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website. Details of the cookies used by this Website are set out in the clause below ( **Cookies** );                                                               |
 | **Data Protection Laws** | any applicable law relating to the processing of personal Data, including but not limited to the GDPR, and any national implementing and supplementary laws, regulations and secondary legislation;                                                                                                                   |
 | **GDPR** | the UK General Data Protection Regulation;                                                                                                                                                                                                                                                                            |
-| **Factory Game LAN Party, we** or **us** | Factory Game LAN Party, a trading name for Entropy LAN, Jessica Smith and Chris Rimmer.                                                                                                                                                                                                                               |
+| **FLAN Party, we** or **us** | FLAN Party, a trading name for Entropy LAN, Jessica Smith and Chris Rimmer.                                                                                                                                                                                                                               |
 | **UK and EU Cookie Law** | the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 & the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2018;                                                |
-| **User**    or    **you** | any third party that accesses the Website and is not either (i) employed by Factory Game LAN Party and acting in the course of their employment or (ii) engaged as a consultant or otherwise providing services toFactory Game LAN Party and accessing the Website in connection with the provision of such services; and |
-| **Website** | the website that you are currently using, https://www.example.com, and any sub-domains of this site unless expressly excluded by their own terms and conditions.                                                                                                                                                      |
+| **User**    or    **you** | any third party that accesses the Website and is not either (i) employed by FLAN Party and acting in the course of their employment or (ii) engaged as a consultant or otherwise providing services toFLAN Party and accessing the Website in connection with the provision of such services; and |
+| **Website** | the website that you are currently using, https://flanparty.net, and any sub-domains of this site unless expressly excluded by their own terms and conditions.                                                                                                                                                      |
 
 2. In this Privacy Policy, unless the context requires a different interpretation:
     1. the singular includes the plural and vice versa;
@@ -33,8 +33,8 @@ This Privacy Policy should be read alongside, and in addition to, our Terms and 
 
 ## Scope of this Privacy Policy
 
-3. This Privacy Policy applies only to the actions of Factory Game LAN Party and Users with respect to this Website. It does not extend to any websites that can be accessed from this Website including, but not limited to, any links we may provide to social media websites.
-4. For purposes of the applicable Data Protection Laws, Factory Game LAN Party is the "data controller". This means that Factory Game LAN Party determines the purposes for which, and the manner in which, your Data is processed.
+3. This Privacy Policy applies only to the actions of FLAN Party and Users with respect to this Website. It does not extend to any websites that can be accessed from this Website including, but not limited to, any links we may provide to social media websites.
+4. For purposes of the applicable Data Protection Laws, FLAN Party is the "data controller". This means that FLAN Party determines the purposes for which, and the manner in which, your Data is processed.
 
 ## Data Collected
 
@@ -57,7 +57,7 @@ This Privacy Policy should be read alongside, and in addition to, our Terms and 
 
 ### Data That is Given to Us by You
 
-7. Factory Game LAN Party will collect your Data in a number of ways, for example:
+7. FLAN Party will collect your Data in a number of ways, for example:
     1. when you contact us through the Website, by telephone, post, e-mail or through any other means;
     2. when you register with us and set up an account to receive our products/services;
     3. when you complete surveys that we use for research purposes (although you are not obliged to respond to them);
@@ -69,7 +69,7 @@ This Privacy Policy should be read alongside, and in addition to, our Terms and 
 
 ### Data That is Received From Third Parties
 
-8. Factory Game LAN Party will receive Data about you from the following third parties:
+8. FLAN Party will receive Data about you from the following third parties:
     1. discord;
     2. valve;
     3. ticket tailor.
@@ -111,7 +111,7 @@ This Privacy Policy should be read alongside, and in addition to, our Terms and 
     1. access to your account is controlled by a password and a user name that is unique to you.
     2. we store your Data on secure servers.
 
-16. Technical and organisational measures include measures to deal with any suspected data breach. If you suspect any misuse or loss or unauthorised access to your Data, please let us know immediately by contacting us via this e-mail address: privacy@example.com.
+16. Technical and organisational measures include measures to deal with any suspected data breach. If you suspect any misuse or loss or unauthorised access to your Data, please let us know immediately by contacting us via this e-mail address: privacy@flanparty.net.
 
 17. If you want detailed information from Get Safe Online on how to protect your information and your computers and devices against fraud, identity theft, viruses and many other online problems, please visit www.getsafeonline.org. Get Safe Online is supported by HM Government and leading businesses.
 
@@ -129,7 +129,7 @@ This Privacy Policy should be read alongside, and in addition to, our Terms and 
     4. **Right to restrict our use of your Data**    - the right to "block" us from using your Data or limit the way in which we can use it.
     5. **Right to data portability**    - the right to request that we move, copy or transfer your Data.
     6. **Right to object**    - the right to object to our use of your Data including where we use it for our legitimate interests.
-21. To make enquiries, exercise any of your rights set out above, or withdraw your consent to the processing of your Data (where consent is our legal basis for processing your Data), please contact us via this e-mail address: privacy@example.com.
+21. To make enquiries, exercise any of your rights set out above, or withdraw your consent to the processing of your Data (where consent is our legal basis for processing your Data), please contact us via this e-mail address: privacy@flanparty.net.
 22. If you are not satisfied with the way a complaint you make in relation to your Data is handled by us, you may be able to refer your complaint to the relevant data protection authority. For the UK, this is the Information Commissioner's Office (ICO). The ICO's contact details can be found on their website at https://ico.org.uk/.
 23. It is important that the Data we hold about you is accurate and current. Please keep us informed if your Data changes during the period for which we hold it.
 
@@ -139,15 +139,15 @@ This Privacy Policy should be read alongside, and in addition to, our Terms and 
 
 ## Changes of Business Ownership and Control
 
-25. Factory Game LAN Party may, from time to time, expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of Factory Game LAN Party. Data provided by Users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Privacy Policy, be permitted to use the Data for the purposes for which it was originally supplied to us.
+25. FLAN Party may, from time to time, expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of FLAN Party. Data provided by Users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Privacy Policy, be permitted to use the Data for the purposes for which it was originally supplied to us.
 26. We may also disclose Data to a prospective purchaser of our business or any part of it.
 27. In the above instances, we will take steps with the aim of ensuring your privacy is protected.
 
 ## Cookies
 
-28. This Website may place and access certain Cookies on your computer. Factory Game LAN Party uses Cookies to improve your experience of using the Website and to improve our range of products and services. Factory Game LAN Party has carefully chosen these Cookies and has taken steps to ensure that your privacy is protected and respected at all times.
+28. This Website may place and access certain Cookies on your computer. FLAN Party uses Cookies to improve your experience of using the Website and to improve our range of products and services. FLAN Party has carefully chosen these Cookies and has taken steps to ensure that your privacy is protected and respected at all times.
 29. All Cookies used by this Website are used in accordance with current UK and EU Cookie Law.
-30. Before the Website places Cookies on your computer, you will be presented with a message bar requesting your consent to set those Cookies. By giving your consent to the placing of Cookies, you are enabling Factory Game LAN Party to provide a better experience and service to you. You may, if you wish, deny consent to the placing of Cookies; however certain features of the Website may not function fully or as intended.
+30. Before the Website places Cookies on your computer, you will be presented with a message bar requesting your consent to set those Cookies. By giving your consent to the placing of Cookies, you are enabling FLAN Party to provide a better experience and service to you. You may, if you wish, deny consent to the placing of Cookies; however certain features of the Website may not function fully or as intended.
 31. This Website may place the following Cookies:
 
 | **Type of Cookie** | **Purpose** |
@@ -170,9 +170,9 @@ This Privacy Policy should be read alongside, and in addition to, our Terms and 
 
 ## Changes to This Privacy Policy
 
-41. Factory Game LAN Party reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the Privacy Policy on your first use of the Website following the alterations.
+41. FLAN Party reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the Privacy Policy on your first use of the Website following the alterations.
 
-    You may contact Factory Game LAN Party by email at privacy@example.com.
+    You may contact FLAN Party by email at privacy@flanparty.net.
 
 ## Attribution
 

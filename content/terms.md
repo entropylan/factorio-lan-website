@@ -7,7 +7,7 @@ Please do not attend events if you currently feel unwell or exhibit symptoms typ
 
 Strictly no trading or other commercial activity, by any ticket holder, will be allowed at the event without the organiser’s prior written consent.
 
-Factory Game Lan Party accepts no responsibility for goods or services purchased from third party traders.
+FLAN Party accepts no responsibility for goods or services purchased from third party traders.
 
 Rubbish and other unwanted items must be disposed of using the bins and recycling points provided.
 
@@ -21,7 +21,7 @@ Some elements of our events may use pyrotechnics, lasers, smoke machines, loud m
 
 All items lost while at one of our events will be taken to the helpdesk and then handed to venue reception at the end of the event.
 
-Factory Game Lan Party is a non smoking event and we request that attendees refrain from smoking inside the venue
+FLAN Party is a non smoking event and we request that attendees refrain from smoking inside the venue
 * This includes e-cigarettes
 * A designated smoking area may be available, please ask at helpdesk
 
@@ -53,7 +53,7 @@ The organisers and premises licence holder/venue will not be held liable for any
 
 Certain tickets may require you to present valid identification in order to gain entry. Where this is the case, it will be stated during the ticket buying process and on the ticket itself.
 
-If wristbands are provided; wristbands removed from, tampered with, lost or missing will be rendered invalid and will not be replaced. Those without valid wristbands will be removed from the site or asked to purchase a new ticket. All wristbands issued by the organiser remain the property of Factory Game Lan Party until the final day of the event.
+If wristbands are provided; wristbands removed from, tampered with, lost or missing will be rendered invalid and will not be replaced. Those without valid wristbands will be removed from the site or asked to purchase a new ticket. All wristbands issued by the organiser remain the property of FLAN Party until the final day of the event.
 
 Any customers who arrive outside advertised check- in times may be required to wait before being allowed entry. Such wait times will vary, especially during busy periods.
 
@@ -62,7 +62,7 @@ A single BYOC (Bring your own Computer/Console) ticket entitles the bearer to on
 
 Downloading and sharing of copyright protected work on provided networks, is illegal and not allowed.
 
-Every customer must bring a surge protected extension lead for connection to the event power sockets we provide. These units will help protect equipment from damage should there be a power surge or power loss.  No responsibility will be accepted by Factory Game Lan Party for any damage caused to equipment due to the absence of a surge protector.
+Every customer must bring a surge protected extension lead for connection to the event power sockets we provide. These units will help protect equipment from damage should there be a power surge or power loss.  No responsibility will be accepted by FLAN Party for any damage caused to equipment due to the absence of a surge protector.
 
 You are unable to plug anything else into the venue power supply other than your PC/console and monitor(s).
 
@@ -75,13 +75,13 @@ All children under the age of 16 are the responsibility of their appointed adult
 All LAN customers must abide by the Community Guidelines.
 
 ## Indoor Camping
-By using the Indoor Sleeping service at Factory Game Lan Party, I, the ticket holder,  accept & agree that:
+By using the Indoor Sleeping service at FLAN Party, I, the ticket holder,  accept & agree that:
 
 * The indoor sleeping is an open communal space with other attendees and the ticket holder uses the indoor sleeping space at their own risk.
 * The ticket holder is responsible for, where possible, remaining socially distant whilst using the indoor sleeping area
 * The tickets holder is only permitted to bring 1 “single” size airbed or camp-bed to sleep on in the indoor sleeping area
 * The ticket holder will not set up their sleeping area in the designated fire escape lanes or in front of a fire escape and will not set up their sleeping equipment in a non-sleeping designated area
-* Factory Game Lan Party takes no responsibility for any property that is lost or stolen whilst using the indoor sleeping area.
+* FLAN Party takes no responsibility for any property that is lost or stolen whilst using the indoor sleeping area.
 
 ## Outdoor Camping
 We reserve the right of admission. We only accept responsible campers that are considerate to fellow campers/guests and be respectful of the environment.
@@ -108,14 +108,14 @@ You must take large items of rubbish away with you i.e. broken, tents, cardboard
 You must leave a gap of 6m between all units. This is a legal requirement. You may be asked to move your tent/unit if pitched too close to another. 3m is acceptable for groups.
 
 ## Age Policy
-Factory Game Lan Party is for over 18s only and you may will be asked for ID to access the event.
+FLAN Party is for over 18s only and you may will be asked for ID to access the event.
 
 Accepted ID includes; photographic driving license, proof of age card with PASS hologram or a passport. Photocopies, bank cards or IDs shown on your phone, will not be accepted. For more information to obtain a valid form of ID please visit; https://www.citizencard.com/
 
 ## Security & Safety
 The event and the venue may require a search process at the entrances into the venue, and you may be searched on entry. If you are found to be in possession of any prohibited items, these shall be confiscated and you must immediately leave the venue and not be permitted entry to the event.
 
-Factory Game Lan Party has a No Drugs Policy, and will strictly enforce our zero tolerance policy. Anyone caught in possession of such substances, having refused the opportunity to destroy or dispose of them under our supervision, will be refused entry at the gates or ejected immediately from the event site.
+FLAN Party has a No Drugs Policy, and will strictly enforce our zero tolerance policy. Anyone caught in possession of such substances, having refused the opportunity to destroy or dispose of them under our supervision, will be refused entry at the gates or ejected immediately from the event site.
 
 Drunken, disorderly, or aggressive behaviour will not be tolerated by any event or venue staff; and may result in being ejected from the event site without a refund of your ticket.
 
@@ -130,7 +130,7 @@ Anyone using cameras or filming equipment (including all mobile devices) are exp
 
 Photographs taken at our events cannot be included in any sponsored programme or in any form of advertising without our specific approval and sign off.
 
-By entering the event you grant Factory Game Lan Party permission to use your image in any publicity, marketing or promotional materials.
+By entering the event you grant FLAN Party permission to use your image in any publicity, marketing or promotional materials.
 
 As a condition of sale, the ticket holder consents to being filmed, photographed and recorded for television, feature films, radio, webcast and other public broadcast and/or for any video/DVD or by onsite CCTV cameras and recordings for safety and security purposes.
 
@@ -151,6 +151,6 @@ English law applies to these terms and conditions and any dispute between us ari
 
 We reserve the right to terminate your access to this Site and any use of Our online services at any time with or without cause or notice.
 
-Factory Game Lan Party reserve the right to add to or amend these Terms from time to time. Amendments will take effect when posted on the official event website & social media channels. Please check the FAQs section regularly for changes and to ensure you have up to date information as these are binding on you. If you purchase a ticket after any amendment to these Terms, you agree to be bound by the updated version of these Terms.
+FLAN Party reserve the right to add to or amend these Terms from time to time. Amendments will take effect when posted on the official event website & social media channels. Please check the FAQs section regularly for changes and to ensure you have up to date information as these are binding on you. If you purchase a ticket after any amendment to these Terms, you agree to be bound by the updated version of these Terms.
 
 We reserve the right to transfer our rights and obligations under these terms and conditions to another company. We will publish notice of any such transfer on our website(s) and may, but are not required to, notify you of such transfer via email.

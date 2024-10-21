@@ -6,11 +6,12 @@ theme = "re-terminal"
 [params]
 themeColor = "orange"
 autoCover = false
+favicon = "/images/partygear.png"
 
-#[params.banner]
-#dismissible = false
-#text = "Buy Tickets"
-#url = "https://www.google.com"
+[params.banner]
+dismissible = false
+text = "Buy Tickets"
+url = "/tickets"
 
 [languages]
   [languages.en.params]

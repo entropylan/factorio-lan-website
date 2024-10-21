@@ -6,7 +6,6 @@ theme = "re-terminal"
 [params]
 themeColor = "orange"
 autoCover = false
-fullWidthTheme = true
 
 #[params.banner]
 #dismissible = false

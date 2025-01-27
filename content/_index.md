@@ -24,4 +24,6 @@ Like most LAN parties, FLANParty is a Bring-Your-Own affair. We will provide a d
 [Get Tickets](/tickets)
 {class="cta-block mx-auto"}
 
+All tickets are non-refundable, unless the event is cancelled.
+
 {{< figure src="/images/cover.jpg" alt="A base that looks like spaghetti" position="center" style="border-radius: 8px; margin-top: 4em;" caption="The factory must grow." captionPosition="right" >}}

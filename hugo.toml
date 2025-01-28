@@ -74,12 +74,12 @@ url = "/tickets"
       [[languages.en.menu.main]]
         identifier = "seatpicker"
         name = "Seat Picker"
-        url = "https://seatpicker.flanparty.net"
+        url = "/seatpicker"
         weight = 8
       [[languages.en.menu.main]]
         identifier = "discord"
         name = "Discord"
-        url = "https://discord.gg/eRdCQPaG5u"
+        url = "/discord"
         weight = 9
 
 

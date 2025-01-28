@@ -29,5 +29,5 @@ even went to the Space Age LAN Party! In his spare time he likes to [repair and 
 
 ## I have a question that isn't here.
 
-[Contact us on Discord](https://discord.gg/eRdCQPaG5u) and we'll be
+[Contact us on Discord](/discord) and we'll be
 happy to help!

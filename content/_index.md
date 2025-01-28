@@ -19,7 +19,7 @@ Like most LAN parties, FLANParty is a Bring-Your-Own affair. We will provide a d
 - **Location:** [Padworth Village Hall](/venue), Berkshire, UK, RG7 4HY
 - **Capacity:** 40 People
 - **Price:** &pound;50
-- **Minors:** Must be accompanied by a guardian, [contact us](https://discord.com/invite/KGpbzRy7wF) for more information before ordering tickets because we're still figuring this bit out.
+- **Minors:** Must be accompanied by a guardian, [contact us](/discord) for more information before ordering tickets because we're still figuring this bit out.
 
 [Get Tickets](/tickets)
 {class="cta-block mx-auto"}
